@@ -1,0 +1,94 @@
+        SetStmt
+        LitDI2 0x0007
+        ArgsLd onzo 0x0001
+        ArgsLd rigmarole 0x0001
+        ArgsLd GetObject 0x0001
+        Set fudgel
+
+Set fudgel = GetObject(rigmarole(onzo(7)))
+--------------------------------
+
+        SetStmt
+        LitDI2 0x0008
+        ArgsLd onzo 0x0001
+        ArgsLd rigmarole 0x0001
+        ParamOmitted
+        LitDI2 0x0030
+        Ld fudgel
+        ArgsMemLd ExecQuery 0x0003
+        Set twattling
+
+    Set twattling = fudgel.ExecQuery(rigmarole(onzo(8)), , 48)
+
+-------------------
+
+        SetStmt
+        LitDI2 0x000A
+        ArgsLd onzo 0x0001
+        ArgsLd rigmarole 0x0001
+        ArgsLd CreateObject 0x0001
+        Set groke
+
+Set groke = CreateObject(rigmarole (onzo(10)))
+
+-----------------------
+
+        Ld groke
+        MemLd UserDomain
+        St firkin
+
+firkin = groke.UserDomain
+--------------------
+
+        Ld firkin
+        LitDI2 0x0003
+        ArgsLd onzo 0x0001
+        ArgsLd rigmarole 0x0001
+        Ne
+        IfBlock
+
+firkin = rigmarole(onzo(3)) // 3 - "FLARE-ON"
+--------
+        Ld firkin
+        FnLen
+        St n
+n = Len(firkin)
+
+------------
+Line #61:
+        StartForVariable
+        Ld i
+        EndForVariable
+        LitDI2 0x0001
+        Ld n
+        For
+Line #62:
+        Ld firkin
+        Ld i
+        LitDI2 0x0001
+        ArgsLd Mid$ 0x0003
+        ArgsLd Asc 0x0001
+        Ld n
+        Ld i
+        Sub
+        ArgsSt buff 0x0001
+Line #63:
+        StartForVariable
+        Next
+
+i = 1 To n
+buff(n-i) = Asc(Mid(firkin,i,1))
+# Print it the opposite:
+NO-ERALF
+------------------
+Line #65:
+        Ld F
+        MemLd T
+        MemLd Text
+        LitDI2 0x0002
+        LitDI4 0x5C21 0x0004
+        Ld buff
+        ArgsLd canoodle 0x0004
+        St wabbit
+
+canoodle(F.T.Text, 2, 0x5C21, buff)
