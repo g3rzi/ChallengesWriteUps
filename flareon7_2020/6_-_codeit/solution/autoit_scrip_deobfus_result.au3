@@ -78,11 +78,11 @@ Func _stringproper($sstring)
 		$schr = StringMid($sstring, $i, 1)
 		Select 
 			Case $bcapnext = True
-				If StringRegExp($schr, "[a-zA-ZÀ-ÿšœžŸ]") Then
+				If StringRegExp($schr, "[a-zA-ZÃ€-Ã¿Å¡Å“Å¾Å¸]") Then
 					$schr = StringUpper($schr)
 					$bcapnext = False
 				EndIf
-			Case NOT StringRegExp($schr, "[a-zA-ZÀ-ÿšœžŸ]")
+			Case NOT StringRegExp($schr, "[a-zA-ZÃ€-Ã¿Å¡Å“Å¾Å¸]")
 				$bcapnext = True
 			Case Else
 				$schr = StringLower($schr)
@@ -359,7 +359,7 @@ Func main()
 				$flomtrkawp &= toStr("QR Code Generator is available on GitHub (https://github.com/nayuki/QR-Code-generator) and open-sourced under the following permissive MIT License (https://github.com/nayuki/QR-Code-generator#license):")
 				$flomtrkawp &= @CRLF
 				$flomtrkawp &= @CRLF
-				$flomtrkawp &= toStr("Copyright © 2020 Project Nayuki. (MIT License)")
+				$flomtrkawp &= toStr("Copyright Â© 2020 Project Nayuki. (MIT License)")
 				$flomtrkawp &= @CRLF
 				$flomtrkawp &= toStr("https://www.nayuki.io/page/qr-code-generator-library")
 				$flomtrkawp &= @CRLF
